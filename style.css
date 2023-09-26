@@ -1,0 +1,17 @@
+body{
+    background-color: #fcedd0;
+}
+.container{
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-template-rows: 20% auto;
+    grid-gap: 10px;
+}
+.logo{
+    height: 100%;
+    width: auto;
+    margin-left: 35px;
+}
+h1{
+    text-align: center;
+}
